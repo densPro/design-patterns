@@ -1,3 +1,12 @@
 abstract class CondimentDecorator: Beverage {
-  public abstract override string GetDescription();
+
+public CondimentDecorator(Beverage beverage)
+{
+    this.Beverage = beverage;
+}
+  protected Beverage Beverage { get; }
+
+  public abstract string Description { get; }
+
+  public abstract double Cost { get;}
 }

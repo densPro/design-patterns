@@ -1,17 +1,13 @@
 class Mocha : CondimentDecorator
 {
-  Beverage beverage;
-  public Mocha(Beverage beverage)
+  public Mocha(Beverage beverage): base(beverage)
   {
-      this.beverage = beverage;
-  }
-  public override double GetCost()
-  {
-    return .20 + beverage.GetCost();
+    Cost = .20 + beverage.Cost;
+    Description = beverage.Description + ". Mocha";
   }
 
-  public override string GetDescription()
-  {
-    return beverage.GetDescription() + ". Mocha";
-  }
+  public override string Description { get; }
+
+  public override double Cost { get; }
+
 }

@@ -1,17 +1,11 @@
 class Whip : CondimentDecorator
 {
-  Beverage beverage;
-  public Whip(Beverage beverage)
+  public Whip(Beverage beverage): base(beverage)
   {
-      this.beverage = beverage;
-  }
-  public override double GetCost()
-  {
-    return .10 + beverage.GetCost();
+    Description = beverage.Description + ". Whip";
+    Cost = .10 + beverage.Cost;
   }
 
-  public override string GetDescription()
-  {
-    return beverage.GetDescription() + ". Whip";
-  }
+  public override string Description { get; }
+  public override double Cost { get; }
 }

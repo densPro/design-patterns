@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/denspro/Design Pattern/Decorator/Decorator.csproj": {}
+    "/home/denspro/workingSpace/Design Pattern/Decorator/Decorator.csproj": {}
   },
   "projects": {
-    "/home/denspro/Design Pattern/Decorator/Decorator.csproj": {
+    "/home/denspro/workingSpace/Design Pattern/Decorator/Decorator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/denspro/Design Pattern/Decorator/Decorator.csproj",
+        "projectUniqueName": "/home/denspro/workingSpace/Design Pattern/Decorator/Decorator.csproj",
         "projectName": "Decorator",
-        "projectPath": "/home/denspro/Design Pattern/Decorator/Decorator.csproj",
+        "projectPath": "/home/denspro/workingSpace/Design Pattern/Decorator/Decorator.csproj",
         "packagesPath": "/home/denspro/.nuget/packages/",
-        "outputPath": "/home/denspro/Design Pattern/Decorator/obj/",
+        "outputPath": "/home/denspro/workingSpace/Design Pattern/Decorator/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/denspro/.nuget/NuGet/NuGet.Config"

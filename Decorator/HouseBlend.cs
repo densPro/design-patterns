@@ -1,10 +1,10 @@
 class HouseBlend : Beverage
 {
   public HouseBlend() {
-    description = "HouseBlend"; 
+    Description = "HouseBlend"; 
+    Cost = .89;
   }
-  public override double GetCost()
-  {
-    return .89;
-  }
+
+  public string Description { get; private set;}
+  public double Cost { get; private set; }
 }
