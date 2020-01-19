@@ -1,0 +1,4 @@
+enum TransportType {
+  SHIP,
+  TRUCK
+}

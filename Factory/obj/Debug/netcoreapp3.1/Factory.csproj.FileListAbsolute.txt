@@ -1,0 +1,11 @@
+/home/denspro/workingSpace/Design Pattern/Factory/obj/Debug/netcoreapp3.1/Factory.csprojAssemblyReference.cache
+/home/denspro/workingSpace/Design Pattern/Factory/obj/Debug/netcoreapp3.1/Factory.AssemblyInfoInputs.cache
+/home/denspro/workingSpace/Design Pattern/Factory/obj/Debug/netcoreapp3.1/Factory.AssemblyInfo.cs
+/home/denspro/workingSpace/Design Pattern/Factory/bin/Debug/netcoreapp3.1/Factory
+/home/denspro/workingSpace/Design Pattern/Factory/bin/Debug/netcoreapp3.1/Factory.deps.json
+/home/denspro/workingSpace/Design Pattern/Factory/bin/Debug/netcoreapp3.1/Factory.runtimeconfig.json
+/home/denspro/workingSpace/Design Pattern/Factory/bin/Debug/netcoreapp3.1/Factory.runtimeconfig.dev.json
+/home/denspro/workingSpace/Design Pattern/Factory/bin/Debug/netcoreapp3.1/Factory.dll
+/home/denspro/workingSpace/Design Pattern/Factory/bin/Debug/netcoreapp3.1/Factory.pdb
+/home/denspro/workingSpace/Design Pattern/Factory/obj/Debug/netcoreapp3.1/Factory.dll
+/home/denspro/workingSpace/Design Pattern/Factory/obj/Debug/netcoreapp3.1/Factory.pdb
