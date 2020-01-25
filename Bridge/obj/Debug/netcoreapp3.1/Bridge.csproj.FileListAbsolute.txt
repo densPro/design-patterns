@@ -1,0 +1,11 @@
+/home/denspro/workingSpace/Design Pattern/Bridge/obj/Debug/netcoreapp3.1/Bridge.csprojAssemblyReference.cache
+/home/denspro/workingSpace/Design Pattern/Bridge/obj/Debug/netcoreapp3.1/Bridge.AssemblyInfoInputs.cache
+/home/denspro/workingSpace/Design Pattern/Bridge/obj/Debug/netcoreapp3.1/Bridge.AssemblyInfo.cs
+/home/denspro/workingSpace/Design Pattern/Bridge/bin/Debug/netcoreapp3.1/Bridge
+/home/denspro/workingSpace/Design Pattern/Bridge/bin/Debug/netcoreapp3.1/Bridge.deps.json
+/home/denspro/workingSpace/Design Pattern/Bridge/bin/Debug/netcoreapp3.1/Bridge.runtimeconfig.json
+/home/denspro/workingSpace/Design Pattern/Bridge/bin/Debug/netcoreapp3.1/Bridge.runtimeconfig.dev.json
+/home/denspro/workingSpace/Design Pattern/Bridge/bin/Debug/netcoreapp3.1/Bridge.dll
+/home/denspro/workingSpace/Design Pattern/Bridge/bin/Debug/netcoreapp3.1/Bridge.pdb
+/home/denspro/workingSpace/Design Pattern/Bridge/obj/Debug/netcoreapp3.1/Bridge.dll
+/home/denspro/workingSpace/Design Pattern/Bridge/obj/Debug/netcoreapp3.1/Bridge.pdb
