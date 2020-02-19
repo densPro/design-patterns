@@ -1,0 +1,11 @@
+/home/denspro/workingSpace/Design Pattern/Composite/obj/Debug/netcoreapp3.1/Composite.csprojAssemblyReference.cache
+/home/denspro/workingSpace/Design Pattern/Composite/obj/Debug/netcoreapp3.1/Composite.AssemblyInfoInputs.cache
+/home/denspro/workingSpace/Design Pattern/Composite/obj/Debug/netcoreapp3.1/Composite.AssemblyInfo.cs
+/home/denspro/workingSpace/Design Pattern/Composite/bin/Debug/netcoreapp3.1/Composite
+/home/denspro/workingSpace/Design Pattern/Composite/bin/Debug/netcoreapp3.1/Composite.deps.json
+/home/denspro/workingSpace/Design Pattern/Composite/bin/Debug/netcoreapp3.1/Composite.runtimeconfig.json
+/home/denspro/workingSpace/Design Pattern/Composite/bin/Debug/netcoreapp3.1/Composite.runtimeconfig.dev.json
+/home/denspro/workingSpace/Design Pattern/Composite/bin/Debug/netcoreapp3.1/Composite.dll
+/home/denspro/workingSpace/Design Pattern/Composite/bin/Debug/netcoreapp3.1/Composite.pdb
+/home/denspro/workingSpace/Design Pattern/Composite/obj/Debug/netcoreapp3.1/Composite.dll
+/home/denspro/workingSpace/Design Pattern/Composite/obj/Debug/netcoreapp3.1/Composite.pdb
