@@ -28,12 +28,10 @@ namespace Iterator.Implementations
 
     private void PrintMenu(IMenuItemIterator menuIterator)
     {
-      while(menuIterator.HasNext())
+      while (menuIterator.HasNext())
       {
         MenuItem menuItem = menuIterator.Next();
-        Console.WriteLine(menuItem.Name);
-        Console.WriteLine(menuItem.Price);
-        Console.WriteLine(menuItem.Description);
+        Console.WriteLine($"- {menuItem.Price}, {menuItem.Name}, {menuItem.Description}");
       }
     }
   }
