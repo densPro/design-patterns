@@ -1,0 +1,11 @@
+/home/denspro/workingSpace/Design Pattern/Iterator/bin/Debug/netcoreapp3.1/Iterator
+/home/denspro/workingSpace/Design Pattern/Iterator/bin/Debug/netcoreapp3.1/Iterator.deps.json
+/home/denspro/workingSpace/Design Pattern/Iterator/bin/Debug/netcoreapp3.1/Iterator.runtimeconfig.json
+/home/denspro/workingSpace/Design Pattern/Iterator/bin/Debug/netcoreapp3.1/Iterator.runtimeconfig.dev.json
+/home/denspro/workingSpace/Design Pattern/Iterator/bin/Debug/netcoreapp3.1/Iterator.dll
+/home/denspro/workingSpace/Design Pattern/Iterator/bin/Debug/netcoreapp3.1/Iterator.pdb
+/home/denspro/workingSpace/Design Pattern/Iterator/obj/Debug/netcoreapp3.1/Iterator.csprojAssemblyReference.cache
+/home/denspro/workingSpace/Design Pattern/Iterator/obj/Debug/netcoreapp3.1/Iterator.AssemblyInfoInputs.cache
+/home/denspro/workingSpace/Design Pattern/Iterator/obj/Debug/netcoreapp3.1/Iterator.AssemblyInfo.cs
+/home/denspro/workingSpace/Design Pattern/Iterator/obj/Debug/netcoreapp3.1/Iterator.dll
+/home/denspro/workingSpace/Design Pattern/Iterator/obj/Debug/netcoreapp3.1/Iterator.pdb
