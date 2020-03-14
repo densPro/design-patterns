@@ -9,13 +9,13 @@ namespace Builder
     static void Main(string[] args)
     {
       Console.WriteLine(" ################# Fast Food Restaurant ############################# ");
-      Console.WriteLine("Cashie makes a Burger combo ");
+      Console.WriteLine("Cashier makes a Burger combo ");
       IComboBuilder comboBuilder = new BurgerComboBuilder();
       Cashier cashier = new Cashier(comboBuilder);
       Combo combo = cashier.MakeCombo();
       Console.WriteLine(combo.ToString());
 
-      Console.WriteLine("Cashie makes a chiken combo ");
+      Console.WriteLine("Cashier makes a chiken combo ");
       cashier.ComboBuilder = new FriedChickenComboBuilder();
       combo = cashier.MakeCombo();
       Console.WriteLine(combo.ToString());
