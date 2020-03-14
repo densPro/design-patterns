@@ -1,0 +1,11 @@
+/home/denspro/workingSpace/Design Pattern/Builder/bin/Debug/netcoreapp3.1/Builder
+/home/denspro/workingSpace/Design Pattern/Builder/bin/Debug/netcoreapp3.1/Builder.deps.json
+/home/denspro/workingSpace/Design Pattern/Builder/bin/Debug/netcoreapp3.1/Builder.runtimeconfig.json
+/home/denspro/workingSpace/Design Pattern/Builder/bin/Debug/netcoreapp3.1/Builder.runtimeconfig.dev.json
+/home/denspro/workingSpace/Design Pattern/Builder/bin/Debug/netcoreapp3.1/Builder.dll
+/home/denspro/workingSpace/Design Pattern/Builder/bin/Debug/netcoreapp3.1/Builder.pdb
+/home/denspro/workingSpace/Design Pattern/Builder/obj/Debug/netcoreapp3.1/Builder.csprojAssemblyReference.cache
+/home/denspro/workingSpace/Design Pattern/Builder/obj/Debug/netcoreapp3.1/Builder.AssemblyInfoInputs.cache
+/home/denspro/workingSpace/Design Pattern/Builder/obj/Debug/netcoreapp3.1/Builder.AssemblyInfo.cs
+/home/denspro/workingSpace/Design Pattern/Builder/obj/Debug/netcoreapp3.1/Builder.dll
+/home/denspro/workingSpace/Design Pattern/Builder/obj/Debug/netcoreapp3.1/Builder.pdb
