@@ -9,3 +9,14 @@
 /home/denspro/workingSpace/Design Pattern/Singleton/obj/Debug/netcoreapp3.1/Singleton.AssemblyInfo.cs
 /home/denspro/workingSpace/Design Pattern/Singleton/obj/Debug/netcoreapp3.1/Singleton.dll
 /home/denspro/workingSpace/Design Pattern/Singleton/obj/Debug/netcoreapp3.1/Singleton.pdb
+C:\Users\Denis Salazar\Documents\workingSpace\Design-patterns\Singleton\bin\Debug\netcoreapp3.1\Singleton.exe
+C:\Users\Denis Salazar\Documents\workingSpace\Design-patterns\Singleton\bin\Debug\netcoreapp3.1\Singleton.deps.json
+C:\Users\Denis Salazar\Documents\workingSpace\Design-patterns\Singleton\bin\Debug\netcoreapp3.1\Singleton.runtimeconfig.json
+C:\Users\Denis Salazar\Documents\workingSpace\Design-patterns\Singleton\bin\Debug\netcoreapp3.1\Singleton.runtimeconfig.dev.json
+C:\Users\Denis Salazar\Documents\workingSpace\Design-patterns\Singleton\bin\Debug\netcoreapp3.1\Singleton.dll
+C:\Users\Denis Salazar\Documents\workingSpace\Design-patterns\Singleton\bin\Debug\netcoreapp3.1\Singleton.pdb
+C:\Users\Denis Salazar\Documents\workingSpace\Design-patterns\Singleton\obj\Debug\netcoreapp3.1\Singleton.csprojAssemblyReference.cache
+C:\Users\Denis Salazar\Documents\workingSpace\Design-patterns\Singleton\obj\Debug\netcoreapp3.1\Singleton.AssemblyInfoInputs.cache
+C:\Users\Denis Salazar\Documents\workingSpace\Design-patterns\Singleton\obj\Debug\netcoreapp3.1\Singleton.AssemblyInfo.cs
+C:\Users\Denis Salazar\Documents\workingSpace\Design-patterns\Singleton\obj\Debug\netcoreapp3.1\Singleton.dll
+C:\Users\Denis Salazar\Documents\workingSpace\Design-patterns\Singleton\obj\Debug\netcoreapp3.1\Singleton.pdb

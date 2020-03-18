@@ -1,0 +1,11 @@
+C:\Users\Denis Salazar\Documents\workingSpace\Design-patterns\Prototype\obj\Debug\netcoreapp3.1\Prototype.csprojAssemblyReference.cache
+C:\Users\Denis Salazar\Documents\workingSpace\Design-patterns\Prototype\obj\Debug\netcoreapp3.1\Prototype.AssemblyInfoInputs.cache
+C:\Users\Denis Salazar\Documents\workingSpace\Design-patterns\Prototype\obj\Debug\netcoreapp3.1\Prototype.AssemblyInfo.cs
+C:\Users\Denis Salazar\Documents\workingSpace\Design-patterns\Prototype\bin\Debug\netcoreapp3.1\Prototype.exe
+C:\Users\Denis Salazar\Documents\workingSpace\Design-patterns\Prototype\bin\Debug\netcoreapp3.1\Prototype.deps.json
+C:\Users\Denis Salazar\Documents\workingSpace\Design-patterns\Prototype\bin\Debug\netcoreapp3.1\Prototype.runtimeconfig.json
+C:\Users\Denis Salazar\Documents\workingSpace\Design-patterns\Prototype\bin\Debug\netcoreapp3.1\Prototype.runtimeconfig.dev.json
+C:\Users\Denis Salazar\Documents\workingSpace\Design-patterns\Prototype\bin\Debug\netcoreapp3.1\Prototype.dll
+C:\Users\Denis Salazar\Documents\workingSpace\Design-patterns\Prototype\bin\Debug\netcoreapp3.1\Prototype.pdb
+C:\Users\Denis Salazar\Documents\workingSpace\Design-patterns\Prototype\obj\Debug\netcoreapp3.1\Prototype.dll
+C:\Users\Denis Salazar\Documents\workingSpace\Design-patterns\Prototype\obj\Debug\netcoreapp3.1\Prototype.pdb
