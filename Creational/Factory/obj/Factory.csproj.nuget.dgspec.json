@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/denspro/workingSpace/Design Pattern/Factory/Factory.csproj": {}
+    "/mnt/c/Users/Ryzen/Documents/working-space/nw-demos/Design-patterns/Creational/Factory/Factory.csproj": {}
   },
   "projects": {
-    "/home/denspro/workingSpace/Design Pattern/Factory/Factory.csproj": {
+    "/mnt/c/Users/Ryzen/Documents/working-space/nw-demos/Design-patterns/Creational/Factory/Factory.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/denspro/workingSpace/Design Pattern/Factory/Factory.csproj",
+        "projectUniqueName": "/mnt/c/Users/Ryzen/Documents/working-space/nw-demos/Design-patterns/Creational/Factory/Factory.csproj",
         "projectName": "Factory",
-        "projectPath": "/home/denspro/workingSpace/Design Pattern/Factory/Factory.csproj",
+        "projectPath": "/mnt/c/Users/Ryzen/Documents/working-space/nw-demos/Design-patterns/Creational/Factory/Factory.csproj",
         "packagesPath": "/home/denspro/.nuget/packages/",
-        "outputPath": "/home/denspro/workingSpace/Design Pattern/Factory/obj/",
+        "outputPath": "/mnt/c/Users/Ryzen/Documents/working-space/nw-demos/Design-patterns/Creational/Factory/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/denspro/.nuget/NuGet/NuGet.Config"
@@ -50,7 +50,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.100/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.403/RuntimeIdentifierGraph.json"
         }
       }
     }

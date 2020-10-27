@@ -1,8 +1,0 @@
-{
-  "runtimeOptions": {
-    "additionalProbingPaths": [
-      "/home/denspro/.dotnet/store/|arch|/|tfm|",
-      "/home/denspro/.nuget/packages"
-    ]
-  }
-}
