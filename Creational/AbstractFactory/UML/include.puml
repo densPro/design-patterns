@@ -1,0 +1,47 @@
+@startuml
+class Application {
+    + Application(guiFactory:IGUIFactory)
+    + Paint() : void
+}
+Application --> "button" IButton
+Application --> "checkbox" ICheckbox
+class Program {
+    {static} Main(args:string[]) : void
+}
+interface IButton {
+    Paint() : void
+}
+interface ICheckbox {
+    Paint() : void
+}
+interface IGUIFactory {
+    CreateButton() : IButton
+    CreateCheckbox() : ICheckbox
+}
+class MacButton {
+    + Paint() : void
+}
+IButton <|-- MacButton
+class MacCheckbox {
+    + Paint() : void
+}
+ICheckbox <|-- MacCheckbox
+class MacFactory {
+    + CreateButton() : IButton
+    + CreateCheckbox() : ICheckbox
+}
+IGUIFactory <|-- MacFactory
+class WinButton {
+    + Paint() : void
+}
+IButton <|-- WinButton
+class WinCheckbox {
+    + Paint() : void
+}
+ICheckbox <|-- WinCheckbox
+class WinFactory {
+    + CreateButton() : IButton
+    + CreateCheckbox() : ICheckbox
+}
+IGUIFactory <|-- WinFactory
+@enduml
