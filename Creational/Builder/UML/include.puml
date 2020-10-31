@@ -1,0 +1,62 @@
+@startuml
+class Cashier {
+    + Cashier(comboBuilder:IComboBuilder)
+    + MakeCombo() : Combo
+}
+Cashier --> "ComboBuilder" IComboBuilder
+Cashier --> "Combo" Combo
+class Program {
+    {static} Main(args:string[]) : void
+}
+class BurgerComboBuilder {
+    + BurgerComboBuilder()
+    + WithCoke() : IComboBuilder
+    + WithFrenchFries() : IComboBuilder
+    + WithMainFriedFood() : IComboBuilder
+    + WithToy() : IComboBuilder
+    + Build() : Combo
+}
+IComboBuilder <|-- BurgerComboBuilder
+BurgerComboBuilder --> "combo" Combo
+class FriedChickenComboBuilder {
+    + FriedChickenComboBuilder()
+    + WithCoke() : IComboBuilder
+    + WithFrenchFries() : IComboBuilder
+    + WithMainFriedFood() : IComboBuilder
+    + WithToy() : IComboBuilder
+    + Build() : Combo
+}
+IComboBuilder <|-- FriedChickenComboBuilder
+FriedChickenComboBuilder --> "combo" Combo
+interface IComboBuilder {
+    WithCoke() : IComboBuilder
+    WithFrenchFries() : IComboBuilder
+    WithMainFriedFood() : IComboBuilder
+    WithToy() : IComboBuilder
+    Build() : Combo
+}
+class Car {
+}
+Toy <|-- Car
+class Coke {
+}
+class Combo {
+    + <<override>> ToString() : string
+}
+Combo --> "Coke" Coke
+Combo --> "Toy" Toy
+Combo --> "FrenchFriesPack" FrenchFriesPack
+Combo --> "MainFriedFood" MainFriedFood
+abstract class Toy {
+}
+class Chicken {
+}
+MainFriedFood <|-- Chicken
+class FrenchFriesPack {
+}
+class Hamburger {
+}
+MainFriedFood <|-- Hamburger
+abstract class MainFriedFood {
+}
+@enduml

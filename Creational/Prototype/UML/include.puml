@@ -1,0 +1,30 @@
+@startuml
+class Circle {
+    + Radius : int <<get>> <<set>>
+    + Circle()
+    + Circle(source:Circle)
+    + <<override>> Clone() : Shape
+    + <<override>> ToString() : string
+}
+Shape <|-- Circle
+class Program {
+    {static} Main(args:string[]) : void
+}
+class Rectangle {
+    + Width : int <<get>> <<set>>
+    + Height : int <<get>> <<set>>
+    + Rectangle()
+    + Rectangle(source:Rectangle)
+    + <<override>> Clone() : Shape
+    + <<override>> ToString() : string
+}
+Shape <|-- Rectangle
+abstract class Shape {
+    - _color : string
+    + X : int <<get>> <<set>>
+    + Y : int <<get>> <<set>>
+    + Shape()
+    + Shape(source:Shape)
+    + {abstract} Clone() : Shape
+}
+@enduml

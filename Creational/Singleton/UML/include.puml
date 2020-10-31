@@ -1,0 +1,11 @@
+@startuml
+class Logger {
+    - Logger()
+    + {static} GetInstance() : Logger
+    + Print(message:string) : void
+}
+Logger --> "instance" Logger
+class Program {
+    {static} Main(args:string[]) : void
+}
+@enduml

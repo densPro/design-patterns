@@ -1,0 +1,31 @@
+@startuml
+interface Logistic {
+    CreateTransport() : Transport
+}
+class Program {
+    {static} Main(args:string[]) : void
+}
+class RoadLogistic {
+    + CreateTransport() : Transport
+}
+Logistic <|-- RoadLogistic
+class SeaLogistic {
+    + CreateTransport() : Transport
+}
+Logistic <|-- SeaLogistic
+class Ship {
+    + Deliver() : void
+}
+Transport <|-- Ship
+interface Transport {
+    Deliver() : void
+}
+enum TransportType {
+    SHIP,
+    TRUCK,
+}
+class Truck {
+    + Deliver() : void
+}
+Transport <|-- Truck
+@enduml
