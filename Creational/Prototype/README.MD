@@ -9,10 +9,13 @@ and create new objects by copying this prototype.
 
 **Participants**
 
-- **Prototype** (Graphic)
+- **Prototype**
   - Declares an interface for cloning itself.
-- **ConcretePrototype** (Staff, WholeNote, HalfNote)
+- **ConcretePrototype**
   - Implements an operation for cloning itself.
-- **Client** (GraphicTool)
+- **Client** 
   - Creates a new object by asking a prototype to clone itself.
 
+**Implementation**
+
+A simple implementation of shapes (Circle and rectangle) with the ability of clone.
