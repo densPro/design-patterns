@@ -7,7 +7,7 @@ Design Patterns: Elements of Reusable Object-Oriented Software to subclasses.
 
 > (Design Patterns: Elements of Reusable Object-Oriented Software).
 
-![](img/factory-structure.PNG)**Participants**
+![](assets/img/factory-structure.PNG)**Participants**
 
 - **Product** (Document)
   - Defines the interface of objects the factory method creates. 

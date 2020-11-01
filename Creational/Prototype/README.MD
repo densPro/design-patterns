@@ -5,7 +5,7 @@ and create new objects by copying this prototype.
 
 > (Design Patterns: Elements of Reusable Object-Oriented Software).
 
-![](img/Prototype.PNG)
+![](assets/img/Prototype.PNG)
 
 **Participants**
 

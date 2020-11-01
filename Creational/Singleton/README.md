@@ -5,7 +5,7 @@ access to it.
 
 > (Design Patterns: Elements of Reusable Object-Oriented Software).
 
-![](img/singleton.PNG)
+![](assets/img/singleton.PNG)
 
 **Participants**
 

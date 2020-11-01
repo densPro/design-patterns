@@ -5,7 +5,7 @@ objects without specifying their concrete classes.
 
 > (Design Patterns: Elements of Reusable Object-Oriented Software).
 
-![abstract-factory-structure](img/abstract-factory-structure.PNG)
+![abstract-factory-structure](assets/img/abstract-factory-structure.PNG)
 
 **Participants**
 

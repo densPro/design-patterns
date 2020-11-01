@@ -5,7 +5,7 @@ so that the same construction process can create different representations.
 
 > (Design Patterns: Elements of Reusable Object-Oriented Software).
 
-![structure](img/structure.PNG)
+![structure](assets/img/structure.PNG)
 
 ##### Participants 
 
