@@ -6,4 +6,3 @@ to that problem, in such a way that you can use this solution a million times
 over, without ever doing it the same way twice" 
 
 > (Design Patterns: Elements of Reusable Object-Oriented Software).
-
