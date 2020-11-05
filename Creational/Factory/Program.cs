@@ -7,13 +7,15 @@ namespace Factory
     static void Main(string[] args)
     {
       Console.WriteLine("########## Transportation company ###########");
-      Logistic logistic = new RoadLogistic();
-      Transport transport = logistic.CreateTransport();
-      transport.Deliver();
+      DeliverBy(new RoadLogistic());
 
       Console.WriteLine("Change Logistic");
-      logistic = new SeaLogistic();
-      transport = logistic.CreateTransport();
+      DeliverBy(new SeaLogistic());
+    }
+
+    static void DeliverBy(Logistic logistic)
+    {
+      var transport = logistic.CreateTransport();
       transport.Deliver();
     }
   }
