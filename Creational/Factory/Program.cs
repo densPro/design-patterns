@@ -1,4 +1,5 @@
 ﻿using System;
+using Factory.Logistics;
 
 namespace Factory
 {
@@ -7,10 +8,15 @@ namespace Factory
     static void Main(string[] args)
     {
       Console.WriteLine("########## Transportation company ###########");
+
+      Console.WriteLine("Deliver by Earth");
       DeliverBy(new RoadLogistic());
 
-      Console.WriteLine("Change Logistic");
+      Console.WriteLine("Deliver by Sea");
       DeliverBy(new SeaLogistic());
+
+      Console.WriteLine("Efficient Delivery");
+      DeliverBy(new ShortPathLogistic());
     }
 
     static void DeliverBy(Logistic logistic)

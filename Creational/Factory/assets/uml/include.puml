@@ -1,9 +1,14 @@
 @startuml
-interface Logistic {
-    CreateTransport() : Transport
-}
 class Program {
     {static} Main(args:string[]) : void
+    {static} DeliverBy(logistic:Logistic) : void
+}
+enum TransportType {
+    SHIP,
+    TRUCK,
+}
+interface Logistic {
+    CreateTransport() : Transport
 }
 class RoadLogistic {
     + CreateTransport() : Transport
@@ -13,16 +18,16 @@ class SeaLogistic {
     + CreateTransport() : Transport
 }
 Logistic <|-- SeaLogistic
+class ShortPathLogistic {
+    + CreateTransport() : Transport
+}
+Logistic <|-- ShortPathLogistic
 class Ship {
     + Deliver() : void
 }
 Transport <|-- Ship
 interface Transport {
     Deliver() : void
-}
-enum TransportType {
-    SHIP,
-    TRUCK,
 }
 class Truck {
     + Deliver() : void

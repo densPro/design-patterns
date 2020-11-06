@@ -1,4 +1,0 @@
-interface Logistic
-{
-  Transport CreateTransport();
-}
